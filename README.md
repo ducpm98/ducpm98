@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+not+Minh+Tran;I'm+Fastest+Coder+Alive;Not+Backend+Developer;Not+Data+Designer;GVSU+CIS+Student;Welcome+to+my+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+Duc+Pham;I'm+Fastest+Coder+Alive;Not+Backend+Developer;Not+Data+Designer;GVSU+CIS+Student;Welcome+to+my+profile!">
 </p>
 
 <p  align="center">
@@ -94,10 +94,10 @@
 </p>
 
 <p align="center"><b>Profile Visitor Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bminhtran241%7D/count.svg" alt="visitor badge" width="30%"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bducpm98D/count.svg" alt="visitor badge" width="30%"></p>
 
 ---
-
+1%
 Credit: [Duc Pham](https://github.com/ducmp98)
 
 Last Edited on: 10/10/2022
