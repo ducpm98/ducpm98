@@ -10,14 +10,14 @@
 
 <br/>
 <p align="left">
-  <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ducmp98&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ducmp98&theme=blueberry&hide_border=true" />
+  <a href="https://github.com/ducpm98">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ducpm98&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ducpm98&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Duc%20Pham's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://github.com/ducpm98)
+[![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ducpm98&custom_title=Duc%20Pham's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://github.com/ducpm98)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
