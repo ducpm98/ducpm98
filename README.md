@@ -73,6 +73,6 @@
 
 ---
 1%
-Credit: [Duc Pham](https://github.com/ducmp98)
+Credit: [Tien Dat](https://github.com/imtiendat0311)
 
 Last Edited on: 10/14/2022
