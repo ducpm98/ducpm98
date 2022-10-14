@@ -72,7 +72,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bducpm98D/count.svg" alt="visitor badge" width="30%"></p>
 
 ---
-1%
 Credit: [Tien Dat](https://github.com/imtiendat0311)
 
 Last Edited on: 10/14/2022
