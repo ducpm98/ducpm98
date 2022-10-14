@@ -63,8 +63,8 @@
 
 <p align="center">
 <a href="mailto:ducpm98@gmail.com"><img src="https://img.shields.io/badge/-ducpm98@gmail.com-3423A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ducpm98/"><img src="https://img.shields.io/badge/-dupm98-3423A6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ducpm98/"><img src="https://img.shields.io/badge/-ducpm98-3423A6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/dukappa/"><img src="https://img.shields.io/badge/-dupm98-3423A6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/duc.phamminh.712/"><img src="https://img.shields.io/badge/-ducpm98-3423A6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://github.com/ducpm98"><img src="https://img.shields.io/badge/-ducpm98-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
@@ -75,4 +75,4 @@
 1%
 Credit: [Duc Pham](https://github.com/ducmp98)
 
-Last Edited on: 10/10/2022
+Last Edited on: 10/14/2022
