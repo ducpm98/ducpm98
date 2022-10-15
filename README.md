@@ -23,9 +23,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-  
-  qweqeqqwe
-  
+<h1>About me</h1>
+<p>I am currently studying in GVSU as a senior and majoring in computer science</p>
+<p>I am very into making app and game and would love to make one in the future</p>
+<p>Would love to have working experience in different fields (would be awesome if it relates to those 2 above)</p>
   
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -71,5 +72,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bducpm98D/count.svg" alt="visitor badge" width="30%"></p>
 
 ---
-Credit: [Duc Pham - The Fastest Coder Alive](https://github.com/ducpm98)
+
 
