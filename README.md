@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+Duc+Pham;GVSU+CIS+Student;Welcome+to+my+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+Duc+Pham;The+Fastest+Coder+Alive;GVSU+CIS+Student;Welcome+to+my+profile!">
 </p>
 
 <p  align="center">
@@ -29,24 +29,14 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
-![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
-![Quarkus](https://img.shields.io/badge/-Quarkus-05122A?style=flat&logo=Quarkus)&nbsp;
-![Vaadin](https://img.shields.io/badge/-Vaadin-05122A?style=flat&logo=vaadin)&nbsp;
 
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
@@ -72,6 +62,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bducpm98D/count.svg" alt="visitor badge" width="30%"></p>
 
 ---
-Credit: [Tien Dat](https://github.com/imtiendat0311)
+Credit: [Duc Pham - The Fastest Coder Alive](https://github.com/ducpm98)
 
-Last Edited on: 10/14/2022
