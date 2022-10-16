@@ -7,8 +7,10 @@
 <br>
 
 ### 📈 &nbsp;Contribution Statistics
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducpm98&theme=blueberry&hide_border=true&show_icons=true&)]
 
-<br/>
+  <br/>
 <p align="left">
   <a href="https://github.com/ducpm98">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ducpm98&show_icons=true&theme=blueberry&hide_border=true" />
