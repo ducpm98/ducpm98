@@ -8,7 +8,7 @@
 
 ### 📈 &nbsp;Contribution Statistics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducpm98&theme=blueberry&hide_border=true&show_icons=true&"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducpm98&theme=blueberry&hide_border=true&show_icons=true&layout=compact&"/>
 </div>
   <br/>
 <p align="left">
