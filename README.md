@@ -19,7 +19,7 @@
 </p>
 <br>
 
-[![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ducpm98&custom_title=Duc%20Pham's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=89ddff&color=27e8a7&bg_color=242938&)](https://github.com/ducpm98)
+[![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ducpm98&custom_title=Duc%20Pham's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=89ddff&color=27e8a7&bg_color=242938)](https://github.com/ducpm98)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
