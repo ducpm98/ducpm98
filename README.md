@@ -36,7 +36,8 @@
   
   
 ### 🛠 &nbsp;Tech Stack
-![C](https://camo.githubusercontent.com/092ef41e03a58474dc802eb673ebb3e40caf801e60e720a800508b831fab791f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465)&nbsp;
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
