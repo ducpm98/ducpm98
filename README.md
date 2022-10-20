@@ -21,6 +21,10 @@
 
 [![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ducpm98&custom_title=Duc%20Pham's%20Contribution%20Graph&hide_border=true&line=82aaff&point=27e8a7&color=89ddff&bg_color=242938&title_color=82aaff)](https://github.com/ducpm98)
 
+[!githubskyline](/skyline.svg)
+
+
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
