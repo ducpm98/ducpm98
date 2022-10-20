@@ -1,4 +1,4 @@
-name: Favorites anime and currently watching
+name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Anime
+        uses: lowlighter/metrics@latest
         with:
           filename: anime.svg
           base: ""
@@ -22,4 +23,12 @@ jobs:
           plugin_anilist_user:  ${{ secrets.ANILIST }}
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
+      - name: Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          base: ""
+          token: ${{ secrets.TOKEN }}
+          plugin_skyline: yes
+          plugin_skyline_quality: 1
           
