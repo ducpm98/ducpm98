@@ -23,8 +23,8 @@
 
 
 
-[<img align="left" src="/skyline.svg" width="390">](#)
-[<img align="right" src="/skyline.city.svg" width="390">](#)
+[<img align="left" src="/skyline.svg" width="460">](#)
+[<img align="right" src="/skyline.city.svg" width="460">](#)
 
 
 
