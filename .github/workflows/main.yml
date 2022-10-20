@@ -28,7 +28,7 @@ jobs:
         with:
           filename: skyline.svg
           base: ""
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_skyline: yes
           plugin_skyline_quality: 1
           
