@@ -22,10 +22,9 @@
 [![Duc Pham' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ducpm98&custom_title=Duc%20Pham's%20Contribution%20Graph&hide_border=true&line=82aaff&point=27e8a7&color=89ddff&bg_color=242938&title_color=82aaff)](https://github.com/ducpm98)
 
 
- <tr>
- <td><img src="/skyline.svg" width="30%" height="30%"></td>
- <td><img src="/skyline.city.svg" width="30%" height="30%"></td>
- </tr>
+
+[<img align="left" src="/skyline.svg" width="50%" height="50%">](#)
+[<img align="right" src="/skyline.city.svg" width="50%" height="50%">](#)
 
 
 
