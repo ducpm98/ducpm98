@@ -15,3 +15,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_anilist: yes
+          plugin_anilist_user:  ${{ secrets.ANILIST }}
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          
