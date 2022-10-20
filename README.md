@@ -30,9 +30,6 @@
 <p>I am very into making app and game and would love to make one in the future</p>
 <p>Would love to have working experience in different fields (would be awesome if it relates to those 2 above)</p>
 
-<h1>Anime Watch List</h1>
-
-![ANIME](/anime.svg)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
