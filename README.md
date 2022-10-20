@@ -23,8 +23,8 @@
 
 
  <tr>
- <td><img src="/skyline.svg"></td>
- <td><img src="/skyline.city.svg"></td>
+ <td><img src="/skyline.svg" width="50%" height="50%"></td>
+ <td><img src="/skyline.city.svg" width="50%" height="50%"></td>
  </tr>
 
 
