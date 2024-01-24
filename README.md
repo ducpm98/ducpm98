@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there! 👋
 
-### Hi my name is **Duc Pham**, you can either call me Duke or Duck whatever you like, I dont mind
-### Check out my personal website: personal-web-ducpm98.vercel.app
+I'm **Duc Pham**—feel free to call me Duke or Duck, whichever you prefer. 😊
+
+Check out my [personal website](https://personal-web-ducpm98.vercel.app) to learn more about me!
